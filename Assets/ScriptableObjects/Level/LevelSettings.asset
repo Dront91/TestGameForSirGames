@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2c8a6a712777f47ab053eaef741765, type: 3}
+  m_Name: LevelSettings
+  m_EditorClassIdentifier: 
+  _wave:
+    Squads:
+    - EnemyPrefab: {fileID: 4340234119211944292, guid: 43b12ea8b50ae5c4b9edc936aae92c0c, type: 3}
+      EnemyCount: 2
+    - EnemyPrefab: {fileID: 7001767991960430403, guid: 6bb1f9f436201cf4da8cbd7977cf17e9, type: 3}
+      EnemyCount: 1
